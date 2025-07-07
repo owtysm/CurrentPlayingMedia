@@ -1,22 +1,23 @@
+### .NET Framework 4.7.2+
 # 7ow.CurrentPlayingMedia
 Access information about the media that's currently playing on the Windows system.
 
 ### Usage
 
 1. Initialize
-```
+```cs
 PlayingMedia pm = new PlayingMedia();
 await pm.InitializeAsync();
 ```
 
 2. Attach to relevant events
-```
+```cs
     pm.SongChanged += Pm_SongChanged;
     pm.PlaybackStateChanged += Pm_PlaybackStateChanged;
 ```
 
 3. Access the media information
-```
+```cs
         private async void Pm_SongChanged(object sender, PlayingMedia e)
         {
             // basic info
@@ -36,5 +37,7 @@ await pm.InitializeAsync();
 
 
 ### Demo app
+
+Download @ [Releases/Demo](https://github.com/owtysm/CurrentPlayingMedia/releases/tag/demo)
 
 ![image](https://github.com/user-attachments/assets/810d8b55-bfa7-491d-a9fb-69343cf915ea)
