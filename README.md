@@ -15,6 +15,9 @@ Access information about the media that's currently playing on the Windows syste
 
 ![image](https://github.com/user-attachments/assets/0c206953-2866-419e-b6df-0add38090b0e)
 
+- **YouTube**
+
+![image](https://github.com/user-attachments/assets/361fe6cf-736a-4ab4-9f2b-7acef1d32b5c)
 
 # Usage
 
