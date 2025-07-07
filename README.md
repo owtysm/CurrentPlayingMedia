@@ -9,15 +9,15 @@ Access information about the media that's currently playing on the Windows syste
 
 - **Spotify**
 
-![image](https://github.com/user-attachments/assets/810d8b55-bfa7-491d-a9fb-69343cf915ea)
+![image](https://i.imgur.com/93imf9s.png)
 
 - **SoundCloud**
 
-![image](https://github.com/user-attachments/assets/0c206953-2866-419e-b6df-0add38090b0e)
+![image](https://i.imgur.com/D4eju9x.png)
 
 - **YouTube**
 
-![image](https://github.com/user-attachments/assets/361fe6cf-736a-4ab4-9f2b-7acef1d32b5c)
+![image](https://i.imgur.com/749ZEcq.png)
 
 # Usage
 
