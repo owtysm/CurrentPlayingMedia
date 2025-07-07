@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>7ow.CurrentPlayingMedia</id>
+    <version>1</version>
+    <authors>7ow</authors>
+    <owners>itzkxhu</owners>
+    <description>Access information about the media that's currently playing on the Windows system.</description>
+    <license type="expression">Unlicense</license>
+    <tags>winforms net 7ow windows media music video</tags>
+    <repository type="git" url="https://github.com/owtysm/CurrentPlayingMedia" />
+    <readme>README.md</readme>
+  </metadata>
+  <files>
+    <file src="CurrentPlayingMedia\bin\Release\CurrentPlayingMedia.dll" target="lib\net472" />
+    <file src="README.md" target="" />
+  </files>
+</package>
