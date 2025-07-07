@@ -2,6 +2,12 @@
 # 7ow.CurrentPlayingMedia
 Access information about the media that's currently playing on the Windows system.
 
+### Demo app
+
+Download @ [Releases/Demo](https://github.com/owtysm/CurrentPlayingMedia/releases/tag/demo)
+
+![image](https://github.com/user-attachments/assets/810d8b55-bfa7-491d-a9fb-69343cf915ea)
+
 ### Usage
 
 1. Initialize
@@ -34,10 +40,3 @@ await pm.InitializeAsync();
             Thumbnail.Dispose();
         }
 ```
-
-
-### Demo app
-
-Download @ [Releases/Demo](https://github.com/owtysm/CurrentPlayingMedia/releases/tag/demo)
-
-![image](https://github.com/user-attachments/assets/810d8b55-bfa7-491d-a9fb-69343cf915ea)
