@@ -35,6 +35,6 @@ await pm.InitializeAsync();
 ```
 
 
-### Demo app:
+### Demo app
 
 ![image](https://github.com/user-attachments/assets/810d8b55-bfa7-491d-a9fb-69343cf915ea)
