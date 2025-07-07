@@ -2,13 +2,21 @@
 # 7ow.CurrentPlayingMedia
 Access information about the media that's currently playing on the Windows system.
 
-### Demo app
+> ### Demo app
+> 💾 Download @ [Releases/Demo](https://github.com/owtysm/CurrentPlayingMedia/releases/tag/demo)
 
-Download @ [Releases/Demo](https://github.com/owtysm/CurrentPlayingMedia/releases/tag/demo)
+# Showcase
+
+- **Spotify**
 
 ![image](https://github.com/user-attachments/assets/810d8b55-bfa7-491d-a9fb-69343cf915ea)
 
-### Usage
+- **SoundCloud**
+
+![image](https://github.com/user-attachments/assets/0c206953-2866-419e-b6df-0add38090b0e)
+
+
+# Usage
 
 1. Initialize
 ```cs
