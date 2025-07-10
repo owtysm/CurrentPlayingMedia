@@ -7,6 +7,8 @@ Access information about the media that's currently playing on the Windows syste
 
 # Showcase
 
+**This provides you info about the media, this is NOT an app!** (the screenshots are the Demo app)
+
 - **Spotify**
 
 ![image](https://i.imgur.com/93imf9s.png)
